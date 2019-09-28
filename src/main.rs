@@ -1,3 +1,4 @@
+#![windows_subsystem = "windows"]
 extern crate backtrace;
 extern crate sdl2;
 use sdl2::event::Event;
